@@ -1,4 +1,4 @@
-StudyDock Website
+StudyDock
 =================
 
 StudyDock is a focused learning platform designed to help users build strong foundations in technology. This website provides an engaging interface for exploring DevOps, Microsoft Power Platform, and SAP topics, with dedicated pages for each course.
